@@ -12,7 +12,7 @@ Car Software Manage (Cs Manage) is a SaaS solution designed to help car manageme
 Here is a step-by-step guide to using the Cs Manage app.
 
 ### 1. Login Interface
-![Login](./img/0.png)
+![Login](./0.png)
 
 Start by logging into the application using your credentials.
 
