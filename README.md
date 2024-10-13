@@ -34,33 +34,32 @@ Easily add & manage new reservations to your inventory by filling out the requir
 ### 5. Clients Info Management Interface
 <img src="/2.png" alt="Login" width="300" />
 
-Manage & secure all your clients from one place.
+Manage & secure data of your clients from one place.
 
 ### 6. Car Details
 <img src="/3.png" alt="Login" width="300" />
 
-Add new & remouve of cars in real-time and manage them efficiently.
+Add & remouve cars in real-time and manage them efficiently.
 
 ### 7. Cars Brand Manage
 <img src="/4.png" alt="Login" width="300" />
 
-Manage reports on cars barnds of agency.
+Manage reports of cars barnds.
 
 ### 8. Settings Of Cars Carburent 
 <img src="/5.png" alt="Login" width="300" />
 
-Customize with all types your agency's owned.
+Customize with all types thats're owned by your agency's.
 
 ### 9. Cars Modeles Manage
 <img src="/6.png" alt="Login" width="300" />
 
-Track & add and manage all cars modules your agency owen.
+Track & add and manage all cars modules of your agency.
 
 ### 10. GPS Track Secuirety
 <img src="/7.png" alt="Login" width="300" />
 
-Securely your cras by GPS trcak for every clients.
+Securely your cars by GPS track for every clients.
 
-
-####For more details, please reach our in [Offcial Website](https://csmanage.shop/).
----
+----
+For more details, please reach our in [Offcial Website](https://csmanage.shop/).
