@@ -12,47 +12,52 @@ Car Software Manage (Cs Manage) is a SaaS solution designed to help car manageme
 Here is a step-by-step guide to using the Cs Manage app.
 
 ### 1. Login Interface
-![Login](<img src="/0.png" alt="Login" width="300" />)
+<img src="/9.png" alt="Login" width="400" />
 
 Start by logging into the application using your credentials.
 
 ### 2. Contract Design Interface
-![Contract Design](./img/1.png)
+<img src="/8.png" alt="Login" width="300" />
 
 Easily design and digitalize your contracts, ensuring they are tailored to your agency's needs.
 
 ### 3. Main Dashboard
-![Dashboard](./img/2.png)
+<img src="/0.png" alt="Login" width="300" />
 
 View all car statuses, bookings, and contracts from a centralized dashboard.
 
 ### 4. Add New Car Interface
-![Add New Car](./img/3.png)
+<img src="/1.png" alt="Login" width="300" />
 
 Easily add new cars to your inventory by filling out the required details.
 
 ### 5. Car Availability Tracker
-![Car Tracker](./img/4.png)
+<img src="/2.png" alt="Login" width="300" />
 
 Track the availability of cars in real-time and manage bookings efficiently.
 
 ### 6. Contract Management Interface
-![Contract Management](./img/5.png)
+<img src="/3.png" alt="Login" width="300" />
 
 Manage all your contracts from one place, ensuring they are up-to-date and signed by all parties.
 
 ### 7. Reporting and Analytics
-![Reporting](./img/6.png)
+<img src="/4.png" alt="Login" width="300" />
 
 Generate reports on car usage, contracts, and overall agency performance.
 
 ### 8. Settings and User Preferences
-![Settings](./img/7.png)
+<img src="/5.png" alt="Login" width="300" />
 
 Customize user preferences and settings to align with your agency's operations.
 
 ### 9. Logout
-![Logout](./img/8.png)
+<img src="/6.png" alt="Login" width="300" />
+
+Logout securely after completing your tasks.
+
+### 10. Logout
+<img src="/7.png" alt="Login" width="300" />
 
 Logout securely after completing your tasks.
 
