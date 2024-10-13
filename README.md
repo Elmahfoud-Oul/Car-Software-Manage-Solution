@@ -12,7 +12,7 @@ Car Software Manage (Cs Manage) is a SaaS solution designed to help car manageme
 Here is a step-by-step guide to using the Cs Manage app.
 
 ### 1. Login Interface
-<img src="/9.png" alt="Login" width="400" />
+<img src="/9.png" alt="Login" width="300" />
 
 Start by logging into the application using your credentials.
 
@@ -26,41 +26,41 @@ Easily design and digitalize your contracts, ensuring they are tailored to your 
 
 View all car statuses, bookings, and contracts from a centralized dashboard.
 
-### 4. Add New Car Interface
+### 4. Reservation
 <img src="/1.png" alt="Login" width="300" />
 
-Easily add new cars to your inventory by filling out the required details.
+Easily add & manage new reservations to your inventory by filling out the required details.
 
-### 5. Car Availability Tracker
+### 5. Clients Info Management Interface
 <img src="/2.png" alt="Login" width="300" />
 
-Track the availability of cars in real-time and manage bookings efficiently.
+Manage & secure all your clients from one place.
 
-### 6. Contract Management Interface
+### 6. Car Details
 <img src="/3.png" alt="Login" width="300" />
 
-Manage all your contracts from one place, ensuring they are up-to-date and signed by all parties.
+Add new & remouve of cars in real-time and manage them efficiently.
 
-### 7. Reporting and Analytics
+### 7. Cars Brand Manage
 <img src="/4.png" alt="Login" width="300" />
 
-Generate reports on car usage, contracts, and overall agency performance.
+Manage reports on cars barnds of agency.
 
-### 8. Settings and User Preferences
+### 8. Settings Of Cars Carburent 
 <img src="/5.png" alt="Login" width="300" />
 
-Customize user preferences and settings to align with your agency's operations.
+Customize with all types your agency's owned.
 
-### 9. Logout
+### 9. Cars Modeles Manage
 <img src="/6.png" alt="Login" width="300" />
 
-Logout securely after completing your tasks.
+Track & add and manage all cars modules your agency owen.
 
-### 10. Logout
+### 10. GPS Track Secuirety
 <img src="/7.png" alt="Login" width="300" />
 
-Logout securely after completing your tasks.
+Securely your cras by GPS trcak for every clients.
 
+
+####For more details, please reach our in [Offcial Website](https://csmanage.shop/).
 ---
-
-For more details, please refer to our [Documentation](#).
